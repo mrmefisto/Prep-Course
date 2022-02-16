@@ -1,0 +1,10 @@
+for:
+
+Es un buque que se ejecuta n cantindad de veces.
+
+&& es un operador logico, que significa "y AND", frecuentemente ulizizado en sentincias IF para establecer que se cumplan varias condiciones.
+
+|| es un operendor logico, que sinifaca "o OR", tambien usado para determinar uno u otra condicion en na sentencia IF
+
+! opeerador logico de negacion 
+

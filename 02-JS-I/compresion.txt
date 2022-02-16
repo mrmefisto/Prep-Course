@@ -1,0 +1,19 @@
+Variabls:
+
+Es una porcion de memoria representado por una o varia vocales, al le que se le pueden asignar valores que poueden ser modificados, para luego usarlos.
+
+String:
+
+Es una cadena de texto o caracteres alfanumerica.
+
+Fuciones:
+
+Son segmento cortos de codigo, los que se utilizan para para hgacer tareas repetitivas.
+
+Declaraciones if:
+
+Son condisionales, evalua una condicion si es verdadera , para ejecutar una sentencia de codigo.
+
+Boolaneos:
+
+Los boolaneos representan un valor de verdaero o false, Treu o False.
