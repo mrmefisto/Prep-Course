@@ -1,0 +1,4 @@
+Array :
+
+Es una objeto, que puede contener una lista variable.
+Por ejemploo: si decimos que una varable es un cajon donde se guardan cosas, entonce un array es un mueble con varios cajones.
